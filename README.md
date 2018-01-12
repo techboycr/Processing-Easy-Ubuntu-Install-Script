@@ -3,7 +3,7 @@ Script for easy Processing install on Ubuntu and Linux system alike.
 
 Usage is very simple follow this steps.
 
-1. Download Processing from the offical web [Official Web](https://processing.org/download/)https://processing.org/download/
+1. Download Processing from the offical web [Official Web](https://processing.org/download/)
 3. **Don't extract the Processing 3 compress file**
 2. Download the installation script: InstallProcessing.sh
 4. Now **Make sure** that both Processing compress file and the "InstallProcessing.sh" are in the same directory.
