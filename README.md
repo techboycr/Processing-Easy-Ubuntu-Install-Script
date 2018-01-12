@@ -10,5 +10,7 @@ Usage is very simple follow this steps.
 5. Open Terminal(Crtl+Alt+t) and go to the files directory.
 6. Pay attention to your processing version number in case is *3.3.6*.
 7. Now execute the script with *sudo*:
-          ´´´sudo InstallProcessing.sh 3.3.6´´´
+´´´
+          sudo InstallProcessing.sh 3.3.6
+´´´
 8. Enjoy!
